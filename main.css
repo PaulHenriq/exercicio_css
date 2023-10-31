@@ -1,17 +1,21 @@
-h1 {
+* { /* O trecho abaixo é usado para um reset, ajuste zerado*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 { /*utilizando tag*/
     color:aquamarine;
 }
 h2 {
     color: green;
 }
 
-#economy h2 {
+#economy h2 { /* o sinal # é usado para chamar um id usado no html*/
     color: gold;
 }
 
-.creation-date {
+.creation-date { /*o sinal . é usado para chamar uma classe usada no html*/
     color: purple;
 }
-* {
-    color: red;
-}
+
