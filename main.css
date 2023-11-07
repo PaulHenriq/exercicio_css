@@ -4,18 +4,12 @@
     padding: 0;
 }
 
-h1 { /*utilizando tag*/
-    color:aquamarine;
-}
-h2 {
-    color: green;
+header li {
+    display: inline;
 }
 
-#economy h2 { /* o sinal # é usado para chamar um id usado no html*/
-    color: gold;
-}
-
-.creation-date { /*o sinal . é usado para chamar uma classe usada no html*/
-    color: purple;
+.container {
+    width: 1366px;
+    margin: 0 auto;
 }
 
