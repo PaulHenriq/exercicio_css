@@ -112,3 +112,11 @@ section h2 {
     background-color: rgb(2, 127, 127);
 }
 
+#entertainment {
+    background-color: rgb(226, 178, 226);
+}
+
+#entertainment .articles article a {
+    background-color: rgb(140, 102, 140);
+}
+
